@@ -398,6 +398,14 @@ exports.cordovaIcons = function(params) {
       name: 'store-1024.png',
       size: 1024
     },
+    {
+      name:'icon-60@3x.png',
+      size: 180
+    },
+    {
+      name:'icon-72.png',
+      size: 72
+    }
   ];
 
   return function() {
