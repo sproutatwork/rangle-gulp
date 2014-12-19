@@ -403,6 +403,10 @@ exports.cordovaIcons = function(params) {
       size: 180
     },
     {
+      name:'icon-76.png',
+      size: 76
+    },
+    {
       name:'icon-72.png',
       size: 72
     }
