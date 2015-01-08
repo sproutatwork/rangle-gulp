@@ -327,6 +327,10 @@ exports.cordovaIcons = function(params) {
 
   var iosSizes = [
     {
+      name: 'icon.png',
+      size: 57
+    },
+    {
       name: 'icon-29.png',
       size: 29
     },
@@ -345,10 +349,6 @@ exports.cordovaIcons = function(params) {
     {
       name: 'icon-50@2x.png',
       size: 100
-    },
-    {
-      name: 'icon-57.png',
-      size: 57
     },
     {
       name: 'icon-57@2x.png',
@@ -376,7 +376,7 @@ exports.cordovaIcons = function(params) {
     },
     {
       name: 'icon-76@2x.png',
-      size: 156
+      size: 152
     },
     {
       name: 'icon-small.png',
