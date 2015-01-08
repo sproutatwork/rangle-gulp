@@ -387,10 +387,6 @@ exports.cordovaIcons = function(params) {
       size: 60
     },
     {
-      name: 'icon.png',
-      size: 58
-    },
-    {
       name: 'icon@2x.png',
       size: 116
     },
